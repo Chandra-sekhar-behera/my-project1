@@ -1,0 +1,92 @@
+
+
+.signin-page-container {
+    background-color: #55D6C2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    border-radius: 8px;
+    width: 95%;
+    height: 87vh;
+}
+
+.signin-form-container {
+    background-color: #EFEDED80;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+.signin-form-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: #000000;
+}
+
+.signin-input {
+    width: 80%;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    background-color: white;
+}
+
+.signinn-button {
+    width: 50%;
+    padding: 0.75rem 1rem;
+    background-color: #00D600;
+    color: #FFFFFF;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+.signin-button:hover {
+    background-color: #00B200;
+}
+
+.signin-links {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.signin-link {
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+}
+
+
+
+.forget-link {
+    width: 151px;
+    height: 23px;
+    top: 717px;
+    left: 434px;
+    line-height: 23.44px;
+    font-size: 20px;
+    color: #EA0000;
+    text-decoration: none;
+    size: 20px;
+}
+
+
+
+.sign-link {
+    width: 103px;
+    font-family: 'Roboto';
+    height: 35px;
+    top: 711px;
+    left: 867px;
+    text-decoration: none;
+    color: #000000;
+    size: 30px;
+
+}
